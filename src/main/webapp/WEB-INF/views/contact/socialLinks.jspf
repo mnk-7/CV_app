@@ -1,0 +1,2 @@
+<a href='<c:url value="http://${contactData.github}"/>' class="github" target="_blank"><i class="bi bi-github"></i></a>
+<a href='<c:url value="http://${contactData.linkedin}"/>' class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>

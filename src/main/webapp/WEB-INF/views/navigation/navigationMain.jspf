@@ -1,0 +1,15 @@
+<!-- ======= Header ======= -->
+<header id="header" class="header-top">
+    <div class="container">
+
+        <%@include file="../navigation/appName.jspf"%>
+
+        <nav id="navbar" class="navbar">
+            <ul>
+               <li><a class="nav-link" href='<c:url value="/logout"/>'>Log out</a></li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav>
+
+    </div>
+</header><!-- End Header -->

@@ -1,0 +1,6 @@
+<li><a class="nav-link" href='<c:url value="/home/${person.personId}"/>'>Home</a></li>
+<li><a class="nav-link" href='<c:url value="/about/${person.personId}"/>'>About</a></li>
+<li><a class="nav-link" href='<c:url value="/skills/${person.personId}"/>'>Skills</a></li>
+<li><a class="nav-link" href='<c:url value="/resume/${person.personId}"/>'>Resume</a></li>
+<li><a class="nav-link" href='<c:url value="/contact/${person.personId}"/>'>Contact</a></li>
+<li><a class="nav-link" href='<c:url value="/profiles"/>'>Menu</a></li>

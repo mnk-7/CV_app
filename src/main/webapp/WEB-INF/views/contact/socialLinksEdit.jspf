@@ -1,0 +1,10 @@
+<div class="row content">
+    <ul>
+        <li><i class="bi bi-github">&nbsp;&nbsp;&nbsp;</i>
+            <input class="form-ctrl-short" type="text" name="github" id="github" value="${contactData.github}" placeholder="Enter your GitHub address">
+        </li>
+        <li><i class="bi bi-linkedin">&nbsp;&nbsp;&nbsp;</i>
+            <input class="form-ctrl-short" type="text" name="linkedin" id="linkedin" value="${contactData.linkedin}" placeholder="Enter your LinkedIn address">
+        </li>
+    </ul>
+</div>
